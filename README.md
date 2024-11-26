@@ -1,4 +1,4 @@
-# Repository: marti-terraform-modules
+# Repository: terraform-modules
 
 ## Overview
 
